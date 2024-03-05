@@ -7,4 +7,4 @@ cd H-Tech6
 
 ls
 
-python Hassan66.py
+python Hassan22.py
